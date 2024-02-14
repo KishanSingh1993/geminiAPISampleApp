@@ -18,7 +18,7 @@ object HiltAppModule {
     @Provides
     @Singleton
     fun provideGeminiProDataSource(): GeminiProDataSource {
-        return GeminiProDataSource("AIzaSyAEXaFjLCc7MYmmHOp0NQiW9lH7bPXuK18")
+        return GeminiProDataSource("")
     }
 
     @Provides
