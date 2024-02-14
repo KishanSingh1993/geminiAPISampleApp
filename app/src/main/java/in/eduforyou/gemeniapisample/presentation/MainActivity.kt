@@ -1,4 +1,4 @@
-package `in`.eduforyou.gemeniapisample
+package `in`.eduforyou.gemeniapisample.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
